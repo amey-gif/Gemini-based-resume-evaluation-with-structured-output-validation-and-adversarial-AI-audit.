@@ -1,0 +1,8 @@
+Name: Test Candidate
+
+Skills:
+Python, SQL, Pandas, FastAPI
+
+Projects:
+Built a REST API using Python and FastAPI.
+Analyzed sales data using Pandas and SQL.

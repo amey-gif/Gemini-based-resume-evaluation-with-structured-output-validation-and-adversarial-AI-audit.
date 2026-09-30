@@ -1,0 +1,8 @@
+Name: Test Candidate
+
+Skills:
+Python, SQL, Pandas, FastAPI
+
+Projects:
+Maine Python aur FastAPI ka use karke ek REST API banayi.
+Maine Pandas aur SQL ka use karke sales data ka analysis kiya.

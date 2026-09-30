@@ -1,0 +1,12 @@
+{
+  "match_score": 75,
+  "top_strengths": [
+    "Python proficiency evidenced through project experience.",
+    "SQL used for sales data analysis projects.",
+    "FastAPI utilized to build a REST API."
+  ],
+  "missing_skills": [
+    "Docker"
+  ],
+  "summary": "The resume demonstrates strong alignment with the core programming requirements, including Python, SQL, and FastAPI.\nDocker is a mandatory technical skill that is not evidenced in the supplied resume."
+}

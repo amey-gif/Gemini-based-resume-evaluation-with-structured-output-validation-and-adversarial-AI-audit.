@@ -1,3 +1,18 @@
+# Local environment and secrets
+.venv/
+.env
+.env.*
+!.env.example
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Generated evaluation output
+result.json
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

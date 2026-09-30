@@ -1,0 +1,9 @@
+Role: Python Developer Intern
+
+Mandatory technical skills:
+- Python
+- SQL
+- FastAPI
+- Docker
+
+No prior professional experience is required.

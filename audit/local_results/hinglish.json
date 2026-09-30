@@ -1,0 +1,12 @@
+{
+  "match_score": 75,
+  "top_strengths": [
+    "Python used in a REST API project.",
+    "FastAPI used in a REST API project.",
+    "SQL used for sales data analysis."
+  ],
+  "missing_skills": [
+    "Docker"
+  ],
+  "summary": "The resume demonstrates familiarity with Python, SQL, and FastAPI through project work.\nDocker experience is not evidenced in the supplied resume."
+}
